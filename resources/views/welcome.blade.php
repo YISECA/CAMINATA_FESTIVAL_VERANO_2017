@@ -20,8 +20,9 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>EN EL MARCO DEL FESTIVAL DE VERANO VAMOS TODOS A CAMINAR Y DISFRUTAR PARQUE METROPOLITANO SIMÓN BOLIVAR</h3>
-                        <h4>(SABADO 5, DOMINGO 6, LUES 7, SABADO 12 Y DOMINGO 13 DE AGOSTO DE 2017)</h4>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>CAMINATA RECORRIDO DE LUCES POR EL CENTRO DE BOGOTÀ</h3>
+                        <h4>JUEVES  21, VIERNES 22 Y SABADO 23 DE DICIEMBRE DE 2017</h4>
+                        <h4>Caminata Familiar, Adultos, Jóvenes y Niños</h4>
 </div>
 
                     </div>
@@ -34,21 +35,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/parque.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/navi.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/parque1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/navi1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/parque2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/navi2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -75,25 +76,39 @@
                     <script src="public/Js/jquery.sldr.js"></script>
 
                     <div class="freebirdFormviewerViewHeaderDescription" dir="auto">
+                        <p align="justify" style="font-size: 10pt; line-height: 25px">Si te quieres caminar con tu familia y conocer la historia, de la navidad, disfrutar del alumbrado  ven este jueves 21 de Diciembre y revive la magia de la navidad.</p>
 
                         <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 10pt; line-height: 25px">Es el parque urbano más grande e importante de la ciudad de Bogotá,  se encuentra ubicado en el centro geográfico de Bogotá, (Colombia) en la localidad de Teusaquillo. Es surcado por las avenidas Carrera 60, Carrera 68 de oriente a occidente y las calles 63 y 53; es bastante popular entre los bogotanos quienes lo visitan a diario. Aunque el parque metropolitano se compone de varios parques, los bogotanos tienden a referirse a cada uno de estos parques de forma separada y no los asocian con un solo "megaparque".
-                        En la actualidad se le considera el “pulmón de la ciudad”, por su estratégica ubicación en el corazón de Bogotá, por su amplia vegetación y gran dimensión de sus zonas verdes. Igualmente por la cantidad y variedad de escenarios que lo conforman
+                        <p align="justify" style="font-size: 10pt; line-height: 25px">La Candelaria es la localidad número 17 del Distrito Capital de Bogotá, Capital de Colombia. Se encuentra en el centro oriente de la ciudad de Bogotá. Abarca el centro histórico de Bogotá. Allí se fundó la ciudad el 6 de agosto de 1538 y se construyó la primera iglesia. Alberga la Plaza de Bolívar, que tiene en su costado oriental la Catedral Primada de Colombia. Es además un importante centro turístico, educativo y comercial.
 .<br><br>
-                        <strong>PARQUE CENTRAL SIMÓN BOLÍVAR</strong><br>
-                        Es la principal zona verde del Parque Metropolitano Simón Bolívar, tiene un área de 113 hectáreas, en las cuales se pueden realizar distintas actividades del tipo contemplativo; el parque en sí fue construido en 1968 para la visita del papa Pablo VI, quien asistía al Congreso Eucarístico, en el parque se llevó a cabo una misa campal para lo cual se erigió el Templete Eucarístico ubicado frente al lago que tiene un área de 11 hectáreas; además de ello, el parque tiene dos áreas de juegos para niños, 16 kilómetros de caminos, pista para trote y una concha acústica como escenario complementario a la Plaza de Eventos, con capacidad para más de 80 mil espectadores, en donde en la actualidad se celebran eventos como el Festival de Verano, Rock al Parque y el Festival Iberoamericano de Teatro.
+                        <strong>LOCALIDAD SANTAFE</strong><br>
+                        Compartiéndolo con La Candelaria, localidad que está enclavada en su territorio, separada en 1991. La localidad Santa Fe derivó su nombre del nombre antiguo de la capital. Gran parte de la Bogotá colonial y de principios del siglo XX se encuentra en esta localidad. Santa Fe incluye la zona de los edificios gubernamentales y corporativos de la carrera Séptima y del Centro Internacional, el sector bancario de la avenida Jiménez, así como el tradicional barrio comercial de San Victorino, que es uno de los ejes del comercio bogotano desde la época colonial. La localidad tiene una parte rural correspondiente a los cerros Orientales de Monserrate y Guadalupe.  Además el sector también cuenta con algunas de las principales universidades del país.
 </p>
 
                         <h3>Descripción del recorrido </h3>
 
-                        <p align="justify" style="font-size: 10pt; line-height: 25px">el recorrido dará inicio cl 63 y 53 entre cr 48 y 46 (punto de encuentro parqueadero)en este punto llegaran los participantes de la actividad <strong><i>(personas inscritas página web) </i></strong> allí iniciaremos la actividad con una presentación institucional, recomendaciones específicas para la realización de la actividad y un calentamiento físico que permita la integración entre los asistentes..<br><br>
+                        <p align="justify" style="font-size: 10pt; line-height: 25px">El recorrido dará inicio en la Plaza de Bolívar Punto de encuentro Esquina colegio San Bartolomé, allí admiraremos la grandeza de la plaza de Bolívar, el alumbrado en murales y a través de una historia navideña nos sumergiremos en la alegría de la navidad.<br><br>
 
-                        <strong>Rodeando el Lago</strong><br>
+                        <strong>Plaza de Bolívar</strong><br>
 
-                        Continuaremos el recorrido por el sendero peatonal de tal manera que la brisa del agua permita a los visitantes relacionarse con las características de la naturaleza tales como el aire, sol o lluvia dependiendo de las condiciones climáticas del momento. Pasando por el puente de piedra se explicara la importancia de los mismos como conectores y nos dirigiremos hacia el templete donde a través de un pequeño trote cada dueño competirá con su mascota. Llegando a este punto se hablara de la historia del parque  teniendo en cuenta la siguiente información:<br>
+                        A su alrededor se encuentran algunos de los principales edificios de la ciudad: al norte el Palacio de Justicia, al sur el Capitolio Nacional, al oriente la Catedral Primada de Colombia, la Casa del Cabildo Eclesiástico, la Capilla del Sagrario y el Palacio Arzobispal y al occidente el Palacio Liévano, sede de la Alcaldía Mayor de Bogotá, y al suroriente el Colegio Mayor de San Bartolomé (Bogotá) de los jesuitas. Fue propuesta como Monumento Nacional de Colombia por la resolución 51 del 26 de octubre de 1994 y declarada como tal por el decreto 1802 del 19 de octubre de 1995. <br>Un estudio de la Universidad de los Andes sostiene que la plaza de Bolívar tiene 13.903 metros cuadrados (incluidas las calles de su alrededor) y una capacidad máxima de 55.612 personas.<br><br>
 
-                        Continuamos nuestro recorrido hacia el monumento Bolivariano, donde se realizara una reseña histórica y se continuara hacia la plaza de eventos, en este punto se realiza el cierre de la actividad con los respectivos agradecimientos y la invitación a participar de las diferentes actividades realizadas por el Instituto de Recreación y Deporte (IDRD).<br></p>
+                        <strong>Continuamos hacia el PARQUE DE LOS PERIODISTAS</strong><br>
+
+                        El parque tiene forma triangular debido a la curva que en este tramo realiza el Eje Ambiental, avenida que sigue el cauce del antiguo río San Francisco. En su zona norte se encuentran las instalaciones del ICFES.<br>
+
+                        En su costado oriental se halla la estación de Transmilenio de Las Aguas lo mismo que el edificio de la Academia Colombiana de la Lengua. En su extremo suroccidental se encuentra el hotel Continental del arquitecto Vicente Nasi.<br>
+
+                        Está previsto instalar una escultura en homenaje a García Márquez<br>
+                        Allí admiraremos el monumento de Simón Bolívar, contemplaremos la grandeza de nuestros cerros y nos detendremos para escuchar una historia de navidad.<br>
+
+                        Continuamos hacia el parque la independencia y parque nacional donde admiraremos los alumbrados, distinguiremos su importancia, como centro de concentración y recreación importantes para la ciudad.<br><br>
+
+                        <strong>Continuamos hacia el PARQUE DE LOS PERIODISTAS</strong><br>
+                        Se realiza el cierre de la actividad realizando preguntas aleatorias que permitan evaluar el recorrido e interés de los participantes, se hacen los respectivos agradecimientos y la invitación a participar de las diferentes actividades realizadas por el Instituto de Recreación y Deporte (IDRD).
+
+                        </p>
 
                         <br>
 
@@ -113,7 +128,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm; font-size: 11pt">
 
-                                            <p>calles 63 y 53 entre carreras 48 y 46 (punto de encuentro parqueadero)</p>
+                                            <p>Avenida Carrera 7 #9-96, Bogotá</p>
 
                                         </td>
 
@@ -129,7 +144,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm; font-size: 11pt">
 
-                                            <p>Sábado 5, Domingo 6, Lunes 7, Sábado 12 y Domingo 13 de 2017</p>
+                                            <p>21, 22 Y 23  de Diciembre de 2017</p>
 
                                         </td>
 
@@ -145,7 +160,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm; font-size: 11pt">
 
-                                            <p>9:00 a.m</p>
+                                            <p>6:00 pm</p>
 
                                         </td>
 
@@ -252,25 +267,10 @@
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm;  font-size: 11pt">
 
                                             <p>
-                                               <p><strong>Rutas de SITP  cercanas:</strong>  </p><br>
-                                               <li>Zona Industrial El Dorado </li>
-                                               <li>Porciúncula <strong>265</strong>  Chico Norte</li>
-                                               <li>Tierra Buena <strong>270</strong>  Riveras de Occidente</li>
-                                               <li>La Estrellita <strong>283</strong>  Chico Norte </li>
-                                               <li>Carlos Alban <strong>639</strong>  Calle 182 </li>
-                                               <li>Santo Domingo <strong>661 </strong> Andalucía  </li>
-                                               <li>Diana Turbay <strong>680</strong>  Calle 182 </li>
-                                               <li>El Tuno <strong>722</strong>  Palmitas </li>
-                                               <li>San Cristóbal Nte <strong>736 </strong> Calle 222  </li>
-                                               <li>Paraiso <strong>870A</strong>  Cantón Norte </li>
-                                               <li>Patio Bonito <strong>912 </strong> Lijacá  </li>
-                                               <li>La Rivera <strong>E46 </strong> Metro vivienda  </li>
-                                               <li>San Antonio Norte <strong>P500 </strong> Aeropuerto</li>
-                                               <li>Centro Andino <strong>Z4 </strong> Toberín </li>
-                                               <li>Metrovivienda<strong>Z8 </strong> Toberín </li>
-                                               <li>Metrovivienda <strong>C41 </strong> Quirigüa </li>
-                                               <li>Teusaquillo <strong>142 </strong> Centro – Florida</li><br>
-                                               <p><strong>Si trae su propio auto tome la  carrera 68, la calle 63 o la calle 53 dentro del parque encontrara parqueadero.</strong>  </p>
+                                               <p><strong>Transmileno:</strong>  </p>
+                                               <li>Estación museo del oro, luego coger hacia el sur buscando la plaza de Bolívar.</li>
+                                               <li>Desde la carrera 10, subir por la calle 10ma hasta la plaza de Bolívar.</li>
+                                               <li>Si trae su propio auto, o bicicleta tenga en cuenta que deberá pagar parqueadero en la zona.</li>
                                             </p>
 
                                         </td>
@@ -303,7 +303,7 @@
 
                                 <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
 
-                                <!--<li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>-->
+                                <li><strong>Caminata apta para público familiar, Adultos mayores, adultos, jóvenes y  niños que les guste caminar.</strong></li>
                             </font>
 
                             <br>

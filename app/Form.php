@@ -14,7 +14,7 @@ class Form extends Model
 
 {
 
-   protected $table = 'caminata_festival';
+   protected $table = 'caminata_navidad';
    
 
    public function fechas()
