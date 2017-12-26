@@ -1,7 +1,8 @@
 @extends('master')                              
 
 @section('content') 
-        
+<div class="content" id="main" class="row" data-url="paa" ></div>
+
 <div class="container-fluid">
 	<form name="resultados" id="resultados">
 		<div class="row">

@@ -80,8 +80,7 @@
 
                         <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 10pt; line-height: 25px">La Candelaria es la localidad número 17 del Distrito Capital de Bogotá, Capital de Colombia. Se encuentra en el centro oriente de la ciudad de Bogotá. Abarca el centro histórico de Bogotá. Allí se fundó la ciudad el 6 de agosto de 1538 y se construyó la primera iglesia. Alberga la Plaza de Bolívar, que tiene en su costado oriental la Catedral Primada de Colombia. Es además un importante centro turístico, educativo y comercial.
-.<br><br>
+                        <p align="justify" style="font-size: 10pt; line-height: 25px">La Candelaria es la localidad número 17 del Distrito Capital de Bogotá, Capital de Colombia. Se encuentra en el centro oriente de la ciudad de Bogotá. Abarca el centro histórico de Bogotá. Allí se fundó la ciudad el 6 de agosto de 1538 y se construyó la primera iglesia. Alberga la Plaza de Bolívar, que tiene en su costado oriental la Catedral Primada de Colombia. Es además un importante centro turístico, educativo y comercial.<br><br>
                         <strong>LOCALIDAD SANTAFE</strong><br>
                         Compartiéndolo con La Candelaria, localidad que está enclavada en su territorio, separada en 1991. La localidad Santa Fe derivó su nombre del nombre antiguo de la capital. Gran parte de la Bogotá colonial y de principios del siglo XX se encuentra en esta localidad. Santa Fe incluye la zona de los edificios gubernamentales y corporativos de la carrera Séptima y del Centro Internacional, el sector bancario de la avenida Jiménez, así como el tradicional barrio comercial de San Victorino, que es uno de los ejes del comercio bogotano desde la época colonial. La localidad tiene una parte rural correspondiente a los cerros Orientales de Monserrate y Guadalupe.  Además el sector también cuenta con algunas de las principales universidades del país.
 </p>
